@@ -5,3 +5,9 @@ Software Leads:
 Integration: Caleb Hylkema
 Firmware: Daniel Kim
 Autonomy: Christian Martin
+
+Jetson Info:
+  Username: NGCP-UGV
+  Password: ugv2025!
+
+  ssh ugvjetson2025@10.110.251.152
